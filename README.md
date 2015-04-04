@@ -10,11 +10,11 @@ Pictures and Video are here https://secure.flickr.com/photos/brujug and here htt
 
 Web site/wiki: http://brujug.be
 
-Contact: board <ÄDD> brujug <DÖT> be
+Contact: board <Ã„DD> brujug <DÃ–T> be
 
 
 
 Team
-Olivier HUBAUT - Leader and Project Manager, since 2014
-Pierre MISTROT
-Tasha CARL - Founder, Ex-L/PM
+* Olivier HUBAUT - Leader and Project Manager, since 2014
+* Pierre MISTROT
+* Tasha CARL - Founder, Ex-L/PM
