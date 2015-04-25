@@ -18,6 +18,8 @@ Pictures and Video are here https://secure.flickr.com/photos/brujug and here htt
 
 Web site/wiki: http://brujug.be
 
+Website on GIThub with session history: https://imifos.github.io/BruJUG/
+
 Contact: board <ÄDD> brujug <DÖT> be
 
 
